@@ -1,0 +1,13 @@
+Package: ParallelCoordinatesPlot
+Type: Package
+Title: Parallel Coordinates Plot (Title Case)
+Version: 0.1.0
+Author: Wenrui Zhao
+Maintainer: zwenrui@umich.edu
+Description: Plots a simple Parallel Coordinates Plot.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Imports:
+    testthat
+RoxygenNote: 7.1.2
