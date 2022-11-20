@@ -15,7 +15,7 @@ can install the development version of dplyr from GitHub.
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("temp/ParallelCoordinatesPlot")
+devtools::install_github("wenrui2293/ParallelCoordinatesPlot")
 ```
 
 
